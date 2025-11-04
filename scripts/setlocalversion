@@ -170,4 +170,4 @@ fi
 #	res="$res-ab${BUILD_NUMBER}"
 #fi
 
-echo "$res"
+echo "-O2-20251104"
